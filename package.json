@@ -4,8 +4,7 @@
 	"description": "",
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"test": "nodemon server.js"
+		"start": "node server.js"
 	},
 	"author": "Soumen Maity",
 	"license": "ISC",
@@ -18,8 +17,5 @@
 		"mongodb": "^3.5.5",
 		"mongoose": "^5.9.2",
 		"validator": "^12.2.0"
-	},
-	"devDependencies": {
-		"nodemon": "^2.0.2"
 	}
 }

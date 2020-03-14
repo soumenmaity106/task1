@@ -22,5 +22,5 @@ git clone https://github.com/soumenmaity106/task1.git
 
 npm install
 
-npm test
+npm start
 ```
